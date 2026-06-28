@@ -86,7 +86,7 @@ I enjoy designing clean architectures, optimizing application performance, and b
 ## 🤝 Let's Connect
 
 I'm always interested in collaborating on interesting projects and learning new technologies.
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Iran</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aeinmananni" alt="aeinmananni" /></a> </p>
 
